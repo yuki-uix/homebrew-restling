@@ -1,6 +1,6 @@
 cask "restling" do
-  version "0.12.0"
-  sha256 "94002d77ff82c75f8d6466a4b3b712473de9456269fe65d281cf30302166c744"
+  version "0.13.0"
+  sha256 "0fc9761cf2cc00798c853a32937f4ba5994afa4b5dcab5f7955de68b57ba1f04"
 
   url "https://github.com/yuki-uix/restling/releases/download/v#{version}/Restling-#{version}-universal.zip"
   name "Restling"
